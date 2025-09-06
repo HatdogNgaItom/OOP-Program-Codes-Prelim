@@ -1,0 +1,7 @@
+C:\Users\Admin5\Desktop\Yagonia_RangeLimitations\Yagonia_RangeLimitations\Yagonia_RangeLimitations\bin\Debug\Yagonia_RangeLimitations.exe.config
+C:\Users\Admin5\Desktop\Yagonia_RangeLimitations\Yagonia_RangeLimitations\Yagonia_RangeLimitations\bin\Debug\Yagonia_RangeLimitations.exe
+C:\Users\Admin5\Desktop\Yagonia_RangeLimitations\Yagonia_RangeLimitations\Yagonia_RangeLimitations\bin\Debug\Yagonia_RangeLimitations.pdb
+C:\Users\Admin5\Desktop\Yagonia_RangeLimitations\Yagonia_RangeLimitations\Yagonia_RangeLimitations\obj\Debug\Yagonia_RangeLimitations.csproj.AssemblyReference.cache
+C:\Users\Admin5\Desktop\Yagonia_RangeLimitations\Yagonia_RangeLimitations\Yagonia_RangeLimitations\obj\Debug\Yagonia_RangeLimitations.csproj.CoreCompileInputs.cache
+C:\Users\Admin5\Desktop\Yagonia_RangeLimitations\Yagonia_RangeLimitations\Yagonia_RangeLimitations\obj\Debug\Yagonia_RangeLimitations.exe
+C:\Users\Admin5\Desktop\Yagonia_RangeLimitations\Yagonia_RangeLimitations\Yagonia_RangeLimitations\obj\Debug\Yagonia_RangeLimitations.pdb
